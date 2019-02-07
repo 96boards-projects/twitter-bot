@@ -9,7 +9,7 @@ permalink: /projects/twitter-bot/
 author: Sahaj Sarup 
 
 # Add a description of your project
-description: 
+description: A twitter bot which automatically creates tweets based on weather forcasts, 96Boards Website commits and 96Boards Documentation.
 
 # Add the names of your images which are stored in the sub folders here.
 # The first image is always used in the table at /projects/
